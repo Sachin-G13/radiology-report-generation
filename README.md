@@ -57,10 +57,3 @@ Open and execute the pipeline in Jupyter Notebook or Kaggle:
 ```bash
 jupyter notebook notebook-bio.ipynb
 ```
-
-The notebook covers:
-1. Data loading and text normalization.
-2. PyTorch Dataset and custom collation with BioGPT tokenization.
-3. Multimodal model definition (ResNet-50 + BioGPT prefix fusion).
-4. Mixed-precision training with gradient accumulation.
-5. Inference and automated evaluation (BLEU and ROUGE).
