@@ -1,0 +1,11 @@
+torch
+torchvision
+torchxrayvision
+transformers
+sacremoses
+evaluate
+rouge-score
+pandas
+scikit-learn
+Pillow
+tqdm

@@ -1,0 +1,33 @@
+# Model weights & checkpoints (exceeds GitHub file size limit)
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Datasets and images
+data/
+datasets/
+images/
+*.csv
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
